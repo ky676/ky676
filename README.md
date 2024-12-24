@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ky676
-- 👀 I’m interested in genai application in medicine and healthcare
+- 👀 I’m interested in application of multimodal models in clinical settings.
 - 🌱 I’m currently learning biomedical informatics at nyu grossman school of medicine
 - 💞️ I’m looking to collaborate with similar interest builders
 - 📫 How to reach me.... zy3398@nyu.edu
