@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ky676
-- 🌱 I’m currently learning Biomedical Informatics at NYU
+- 🌱 I’m currently learning Biomedical Informatics at NYU, conducting research in MCIT, Department of Applied AI Technology
 - 💞️ I’m looking to collaborate with similar interest builders
 - 📫 How to reach me.... zy3398@nyu.edu
 
